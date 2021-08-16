@@ -1,0 +1,510 @@
+157. Read N Characters Given Read4
+38.7%
+Easy
+158. Read N Characters Given Read4 II - Call multiple times
+38.8%
+Hard
+159. Longest Substring with At Most Two Distinct Characters
+51.3%
+Medium
+161. One Edit Distance
+33.4%
+Medium
+163. Missing Ranges
+28.7%
+Easy
+170. Two Sum III - Data structure design
+35.5%
+Easy
+186. Reverse Words in a String II
+48.3%
+Medium
+243. Shortest Word Distance
+62.9%
+Easy
+244. Shortest Word Distance II
+56.2%
+Medium
+245. Shortest Word Distance III
+56.5%
+Medium
+247. Strobogrammatic Number II
+49.4%
+Medium
+249. Group Shifted Strings
+59.6%
+Medium
+250. Count Univalue Subtrees
+53.8%
+Medium
+251. Flatten 2D Vector
+46.9%
+Medium
+252. Meeting Rooms
+55.9%
+Easy
+253. Meeting Rooms II
+47.9%
+Medium
+254. Factor Combinations
+48.0%
+Medium
+255. Verify Preorder Sequence in Binary Search Tree
+46.8%
+Medium
+256. Paint House
+55.7%
+Medium
+259. 3Sum Smaller
+49.6%
+Medium
+261. Graph Valid Tree
+44.0%
+Medium
+265. Paint House II
+47.1%
+Hard
+266. Palindrome Permutation
+63.5%
+Easy
+267. Palindrome Permutation II
+38.3%
+Medium
+269. Alien Dictionary
+34.1%
+Hard
+270. Closest Binary Search Tree Value
+51.5%
+Easy
+271. Encode and Decode Strings
+34.5%
+Medium
+272. Closest Binary Search Tree Value II
+53.8%
+Hard
+276. Paint Fence
+40.5%
+Medium
+277. Find the Celebrity
+44.9%
+Medium
+280. Wiggle Sort
+65.2%
+Medium
+281. Zigzag Iterator
+60.2%
+Medium
+285. Inorder Successor in BST
+44.7%
+Medium
+286. Walls and Gates
+57.4%
+Medium
+291. Word Pattern II
+45.0%
+Medium
+296. Best Meeting Point
+58.5%
+Hard
+298. Binary Tree Longest Consecutive Sequence
+49.0%
+Medium
+302. Smallest Rectangle Enclosing Black Pixels
+53.3%
+Hard
+305. Number of Islands II
+39.4%
+Hard
+308. Range Sum Query 2D - Mutable
+39.4%
+Hard
+311. Sparse Matrix Multiplication
+64.7%
+Medium
+314. Binary Tree Vertical Order Traversal
+48.2%
+Medium
+317. Shortest Distance from All Buildings
+43.7%
+Hard
+320. Generalized Abbreviation
+54.7%
+Medium
+323. Number of Connected Components in an Undirected Graph
+59.1%
+Medium
+325. Maximum Size Subarray Sum Equals k
+48.0%
+Medium
+333. Largest BST Subtree
+39.2%
+Medium
+339. Nested List Weight Sum
+77.7%
+Medium
+340. Longest Substring with At Most K Distinct Characters
+46.3%
+Medium
+346. Moving Average from Data Stream
+74.5%
+Easy
+348. Design Tic-Tac-Toe
+56.5%
+Medium
+353. Design Snake Game
+36.9%
+Medium
+358. Rearrange String k Distance Apart
+36.1%
+Hard
+359. Logger Rate Limiter
+73.4%
+Easy
+360. Sort Transformed Array
+50.8%
+Medium
+361. Bomb Enemy
+48.1%
+Medium
+362. Design Hit Counter
+66.2%
+Medium
+364. Nested List Weight Sum II
+65.2%
+Medium
+366. Find Leaves of Binary Tree
+73.8%
+Medium
+369. Plus One Linked List
+59.8%
+Medium
+370. Range Addition
+65.2%
+Medium
+422. Valid Word Square
+38.4%
+Easy
+425. Word Squares
+50.8%
+Hard
+426. Convert Binary Search Tree to Sorted Doubly Linked List
+62.5%
+Medium
+428. Serialize and Deserialize N-ary Tree
+62.7%
+Hard
+431. Encode N-ary Tree to Binary Tree
+75.4%
+Hard
+439. Ternary Expression Parser
+57.2%
+Medium
+465. Optimal Account Balancing
+48.7%
+Hard
+471. Encode String with Shortest Length
+50.2%
+Hard
+484. Find Permutation
+64.3%
+Medium
+487. Max Consecutive Ones II
+48.0%
+Medium
+489. Robot Room Cleaner
+73.9%
+Hard
+490. The Maze
+53.6%
+Medium
+499. The Maze III
+43.3%
+Hard
+505. The Maze II
+49.8%
+Medium
+510. Inorder Successor in BST II
+61.0%
+Medium
+527. Word Abbreviation
+57.0%
+Hard
+531. Lonely Pixel I
+60.1%
+Medium
+536. Construct Binary Tree from String
+53.4%
+Medium
+545. Boundary of Binary Tree
+41.4%
+Medium
+549. Binary Tree Longest Consecutive Sequence II
+48.1%
+Medium
+562. Longest Line of Consecutive One in Matrix
+47.5%
+Medium
+568. Maximum Vacation Days
+42.2%
+Hard
+582. Kill Process
+64.6%
+Medium
+588. Design In-Memory File System
+46.9%
+Hard
+604. Design Compressed String Iterator
+38.6%
+Easy
+616. Add Bold Tag in String
+45.6%
+Medium
+624. Maximum Distance in Arrays
+39.9%
+Medium
+631. Design Excel Sum Formula
+34.7%
+Hard
+635. Design Log Storage System
+60.9%
+Medium
+642. Design Search Autocomplete System
+47.1%
+Hard
+644. Maximum Average Subarray II
+34.7%
+Hard
+651. 4 Keys Keyboard
+53.4%
+Medium
+656. Coin Path
+30.2%
+Hard
+694. Number of Distinct Islands
+58.7%
+Medium
+702. Search in a Sorted Array of Unknown Size
+69.5%
+Medium
+708. Insert into a Sorted Circular Linked List
+33.0%
+Medium
+716. Max Stack
+43.8%
+Easy
+723. Candy Crush
+73.6%
+Medium
+727. Minimum Window Subsequence
+42.8%
+Hard
+734. Sentence Similarity
+42.7%
+Easy
+737. Sentence Similarity II
+47.1%
+Medium
+742. Closest Leaf in a Binary Tree
+44.9%
+Medium
+750. Number Of Corner Rectangles
+67.3%
+Medium
+759. Employee Free Time
+69.5%
+Hard
+760. Find Anagram Mappings
+82.2%
+Easy
+772. Basic Calculator III
+45.4%
+Hard
+774. Minimize Max Distance to Gas Station
+49.2%
+Hard
+1055. Shortest Way to Form String
+57.6%
+Medium
+1056. Confusing Number
+46.5%
+Easy
+1057. Campus Bikes
+58.0%
+Medium
+1059. All Paths from Source Lead to Destination
+43.8%
+Medium
+1060. Missing Element in Sorted Array
+55.4%
+Medium
+1061. Lexicographically Smallest Equivalent String
+67.1%
+Medium
+1062. Longest Repeating Substring
+58.9%
+Medium
+1064. Fixed Point
+64.0%
+Easy
+1065. Index Pairs of a String
+61.2%
+Easy
+1066. Campus Bikes II
+54.4%
+Medium
+1086. High Five
+76.4%
+Easy
+1087. Brace Expansion
+63.6%
+Medium
+1088. Confusing Number II
+46.3%
+Hard
+1099. Two Sum Less Than K
+60.6%
+Easy
+1100. Find K-Length Substrings With No Repeated Characters
+73.2%
+Medium
+1101. The Earliest Moment When Everyone Become Friends
+67.9%
+Medium
+1102. Path With Maximum Minimum Value
+51.4%
+Medium
+1120. Maximum Average Subtree
+64.6%
+Medium
+1133. Largest Unique Number
+67.2%
+Easy
+1134. Armstrong Number
+78.6%
+Easy
+1135. Connecting Cities With Minimum Cost
+60.1%
+Medium
+1136. Parallel Courses
+60.5%
+Medium
+1150. Check If a Number Is Majority Element in a Sorted Array
+57.0%
+Easy
+1151. Minimum Swaps to Group All 1's Together
+59.0%
+Medium
+1153. String Transforms Into Another String
+35.6%
+Hard
+1165. Single-Row Keyboard
+85.6%
+Easy
+1166. Design File System
+59.1%
+Medium
+1167. Minimum Cost to Connect Sticks
+65.7%
+Medium
+1168. Optimize Water Distribution in a Village
+62.4%
+Hard
+1180. Count Substrings with Only One Distinct Letter
+78.2%
+Easy
+1182. Shortest Distance to Target Color
+54.2%
+Medium
+1183. Maximum Number of Ones
+58.5%
+Hard
+1196. How Many Apples Can You Put into the Basket
+68.3%
+Easy
+1197. Minimum Knight Moves
+38.6%
+Medium
+1198. Find Smallest Common Element in All Rows
+76.3%
+Medium
+1199. Minimum Time to Build Blocks
+39.4%
+Hard
+1213. Intersection of Three Sorted Arrays
+79.7%
+Easy
+1214. Two Sum BSTs
+67.5%
+Medium
+1216. Valid Palindrome III
+50.7%
+Hard
+1228. Missing Number In Arithmetic Progression
+51.2%
+Easy
+1229. Meeting Scheduler
+54.6%
+Medium
+1231. Divide Chocolate
+54.1%
+Hard
+1236. Web Crawler
+65.1%
+Medium
+1244. Design A Leaderboard
+67.0%
+Medium
+1245. Tree Diameter
+61.7%
+Medium
+1259. Handshakes That Don't Cross
+54.5%
+Hard
+1265. Print Immutable Linked List in Reverse
+94.1%
+Medium
+1272. Remove Interval
+59.2%
+Medium
+1274. Number of Ships in a Rectangle
+65.6%
+Hard
+1426. Counting Elements
+59.2%
+Easy
+1427. Perform String Shifts
+53.7%
+Easy
+1428. Leftmost Column with at Least a One
+50.5%
+Medium
+1429. First Unique Number
+50.7%
+Medium
+1474. Delete N Nodes After M Nodes of a Linked List
+73.5%
+Easy
+1485. Clone Binary Tree With Random Pointer
+79.6%
+Medium
+1490. Clone N-ary Tree
+82.8%
+Medium
+1506. Find Root of N-Ary Tree
+79.1%
+Medium
+1522. Diameter of N-Ary Tree
+70.8%
+Medium
+1533. Find the Index of the Large Integer
+53.6%
+Medium
+1538. Guess the Majority in a Hidden Array
+61.9%
+Medium
+1548. The Most Similar Path in a Graph
+55.5%
+Hard
+1564. Put Boxes Into the Warehouse I
+64.3%
+Medium

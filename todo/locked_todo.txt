@@ -1,0 +1,16 @@
+269. Alien Dictionary	amazon	困难
+1167. Minimum Cost to Connect Sticks	amazon	中等
+348. Design Tic-Tac-Toe	amazon	中等
+642. Design Search Autocomplete System	amazon	困难
+323. Number of Connected Components in an Undirected Graph	amazon	中等
+588. Design In-Memory File System	amazon	困难
+426. Convert Binary Search Tree to Sorted Doubly Linked List	FB	中等
+314. Binary Tree Vertical Order Traversal	FB	中等
+317. Shortest Distance from All Buildings	FB	困难
+340. Longest Substring with At Most K Distinct Characters	FB	中等
+311. Sparse Matrix Multiplication	FB	中等
+277. Find the Celebrity	FB	中等
+325. Maximum Size Subarray Sum Equals k	FB	中等
+286. Walls and Gates	FB	中等
+1428. Leftmost Column with at Least a One	FB	中等
+158. Read N Characters Given Read4 II - Call multiple times	FB	困难

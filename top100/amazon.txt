@@ -1,0 +1,66 @@
+17. Letter Combinations of a Phone Number	amazon	中等
+33. Search in Rotated Sorted Array	amazon	中等
+103. Binary Tree Zigzag Level Order Traversal	amazon	中等
+56. Merge Intervals	amazon	中等
+240. Search a 2D Matrix II	amazon	中等
+1335. Minimum Difficulty of a Job Schedule	amazon	困难
+273. Integer to English Words	amazon	困难
+957. Prison Cells After N Days	amazon	中等
+239. Sliding Window Maximum	amazon	困难
+380. Insert Delete GetRandom O(1)	amazon	中等
+3. Longest Substring Without Repeating Characters	amazon	中等
+49. Group Anagrams	amazon	中等
+15. 3Sum	amazon	中等
+12. Integer to Roman	amazon	中等
+13. Roman to Integer	amazon	简单
+11. Container With Most Water	amazon	中等
+207. Course Schedule	amazon	中等
+210. Course Schedule II	amazon	中等
+155. Min Stack	amazon	简单
+269. Alien Dictionary	amazon	困难
+547. Number of Provinces	amazon	中等
+472. Concatenated Words	amazon	困难
+48. Rotate Image	amazon	中等
+236. Lowest Common Ancestor of a Binary Tree	amazon	中等
+1010. Pairs of Songs With Total Durations Divisible by 60	amazon	中等
+1167. Minimum Cost to Connect Sticks	amazon	中等
+1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts	amazon	中等
+138. Copy List with Random Pointer	amazon	中等
+215. Kth Largest Element in an Array	amazon	中等
+98. Validate Binary Search Tree	amazon	中等
+460. LFU Cache	amazon	困难
+76. Minimum Window Substring	amazon	困难
+53. Maximum Subarray	amazon	简单
+54. Spiral Matrix	amazon	中等
+322. Coin Change	amazon	中等
+7. Reverse Integer	amazon	简单
+221. Maximal Square	amazon	中等
+22. Generate Parentheses	amazon	中等
+348. Design Tic-Tac-Toe	amazon	中等
+642. Design Search Autocomplete System	amazon	困难
+206. Reverse Linked List	amazon	简单
+31. Next Permutation	amazon	中等
+387. First Unique Character in a String	amazon	简单
+323. Number of Connected Components in an Undirected Graph	amazon	中等
+8. String to Integer (atoi)	amazon	中等
+124. Binary Tree Maximum Path Sum	amazon	困难
+1268. Search Suggestions System	amazon	中等
+84. Largest Rectangle in Histogram	amazon	困难
+25. Reverse Nodes in k-Group	amazon	困难
+55. Jump Game	amazon	中等
+45. Jump Game II	amazon	中等
+41. First Missing Positive	amazon	困难
+50. Pow(x, n)	amazon	中等
+227. Basic Calculator II	amazon	中等
+909. Snakes and Ladders	amazon	中等
+588. Design In-Memory File System	amazon	困难
+543. Diameter of Binary Tree	amazon	简单
+767. Reorganize String	amazon	中等
+102. Binary Tree Level Order Traversal	amazon	中等
+91. Decode Ways	amazon	中等
+165. Compare Version Numbers	amazon	中等
+224. Basic Calculator	amazon	困难
+10. Regular Expression Matching	amazon	困难
+199. Binary Tree Right Side View	amazon	中等
+289. Game of Life	amazon	中等
+733. Flood Fill	amazon	简单
