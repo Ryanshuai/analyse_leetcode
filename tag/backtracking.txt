@@ -1,0 +1,175 @@
+	17	
+Letter Combinations of a Phone Number	51.2%	Medium	
+22	
+Generate Parentheses	67.5%	Medium	
+37	
+Sudoku Solver	49.4%	Hard	
+39	
+Combination Sum	61.5%	Medium	
+40	
+Combination Sum II	51.3%	Medium	
+46	
+Permutations	68.8%	Medium	
+47	
+Permutations II	51.2%	Medium	
+51	
+N-Queens	53.5%	Hard	
+52	
+N-Queens II	63.5%	Hard	
+77	
+Combinations	59.8%	Medium	
+78	
+Subsets	67.4%	Medium	
+79	
+Word Search	38.2%	Medium	
+89	
+Gray Code	53.7%	Medium	
+90	
+Subsets II	50.8%	Medium	
+93	
+Restore IP Addresses	39.1%	Medium	
+95	
+Unique Binary Search Trees II	44.8%	Medium	
+113	
+Path Sum II	51.6%	Medium	
+126	
+Word Ladder II	25.3%	Hard	
+131	
+Palindrome Partitioning	54.8%	Medium	
+140	
+Word Break II	37.7%	Hard	
+212	
+Word Search II
+37.9%	Hard	
+216	
+Combination Sum III	61.9%	Medium	
+254	
+Factor Combinations
+48.0%	Medium	
+267	
+Palindrome Permutation II
+38.4%	Medium	
+282	
+Expression Add Operators	37.6%	Hard	
+291	
+Word Pattern II
+45.1%	Medium	
+294	
+Flip Game II
+51.0%	Medium	
+301	
+Remove Invalid Parentheses	45.5%	Hard	
+306	
+Additive Number	30.0%	Medium	
+320	
+Generalized Abbreviation
+54.7%	Medium	
+351	
+Android Unlock Patterns
+50.2%	Medium	
+357	
+Count Numbers with Unique Digits	49.6%	Medium	
+401	
+Binary Watch	49.3%	Easy	
+411	
+Minimum Unique Word Abbreviation
+37.6%	Hard	
+425	
+Word Squares
+50.9%	Hard	
+465	
+Optimal Account Balancing
+48.7%	Hard	
+473	
+Matchsticks to Square	40.0%	Medium	
+488	
+Zuma Game	37.8%	Hard	
+491	
+Increasing Subsequences	49.0%	Medium	
+494	
+Target Sum	45.4%	Medium	
+526	
+Beautiful Arrangement	62.7%	Medium	
+638	
+Shopping Offers	53.9%	Medium	
+679	
+24 Game	47.7%	Hard	
+691	
+Stickers to Spell Word	46.0%	Hard	
+698	
+Partition to K Equal Sum Subsets	45.1%	Medium	
+784	
+Letter Case Permutation	69.5%	Medium	
+797	
+All Paths From Source to Target	79.1%	Medium	
+816	
+Ambiguous Coordinates	55.6%	Medium	
+489	
+Robot Room Cleaner
+74.0%	Hard	
+842	
+Split Array into Fibonacci Sequence	37.3%	Medium	
+967	
+Numbers With Same Consecutive Differences	46.1%	Medium	
+980	
+Unique Paths III	77.4%	Hard	
+996	
+Number of Squareful Arrays	48.8%	Hard	
+1066	
+Campus Bikes II
+54.4%	Medium	
+1087	
+Brace Expansion
+63.6%	Medium	
+1088	
+Confusing Number II
+46.4%	Hard	
+1215	
+Stepping Numbers
+44.5%	Medium	
+1079	
+Letter Tile Possibilities	76.1%	Medium	
+1096	
+Brace Expansion II	62.7%	Hard	
+1258	
+Synonymous Sentences
+59.1%	Medium	
+1286	
+Iterator for Combination	71.1%	Medium	
+1219	
+Path with Maximum Gold	66.1%	Medium	
+1238	
+Circular Permutation in Binary Representation	67.5%	Medium	
+1239	
+Maximum Length of a Concatenated String with Unique Characters	50.5%	Medium	
+1240	
+Tiling a Rectangle with the Fewest Squares	52.6%	Hard	
+1255	
+Maximum Score Words Formed by Letters	70.8%	Hard	
+1307	
+Verbal Arithmetic Puzzle	35.7%	Hard	
+1415	
+The k-th Lexicographical String of All Happy Strings of Length n	70.5%	Medium	
+1467	
+Probability of a Two Boxes Having The Same Number of Distinct Balls	60.8%	Hard	
+1593	
+Split a String Into the Max Number of Unique Substrings	51.3%	Medium	
+1655	
+Distribute Repeating Integers	40.3%	Hard	
+1718	
+Construct the Lexicographically Largest Valid Sequence	49.5%	Medium	
+1723	
+Find Minimum Time to Finish All Jobs	40.8%	Hard	
+1774	
+Closest Dessert Cost	45.4%	Medium	
+1799	
+Maximize Score After N Operations	46.0%	Hard	
+1820	
+Maximum Number of Accepted Invitations
+47.1%	Medium	
+1849	
+Splitting a String Into Descending Consecutive Values	28.1%	Medium	
+1863	
+Sum of All Subset XOR Totals	78.1%	Easy	
+1947	
+Maximum Compatibility Score Sum	57.4%	Medium	

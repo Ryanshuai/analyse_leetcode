@@ -1,0 +1,424 @@
+11	
+Container With Most Water	53.1%	Medium	
+44	
+Wildcard Matching	25.9%	Hard	
+45	
+Jump Game II	34.0%	Medium	
+55	
+Jump Game	36.0%	Medium	
+122	
+Best Time to Buy and Sell Stock II	59.8%	Easy	
+134	
+Gas Station	42.6%	Medium	
+135	
+Candy	35.5%	Hard	
+179	
+Largest Number	31.6%	Medium	
+253	
+Meeting Rooms II
+47.9%	Medium	
+277	
+Find the Celebrity
+45.0%	Medium	
+280	
+Wiggle Sort
+65.3%	Medium	
+316	
+Remove Duplicate Letters	40.1%	Medium	
+321	
+Create Maximum Number	27.8%	Hard	
+330	
+Patching Array	35.5%	Hard	
+334	
+Increasing Triplet Subsequence	41.0%	Medium	
+358	
+Rearrange String k Distance Apart
+36.1%	Hard	
+376	
+Wiggle Subsequence	42.9%	Medium	
+402	
+Remove K Digits	28.8%	Medium	
+406	
+Queue Reconstruction by Height
+69.2%	Medium	
+409	
+Longest Palindrome	52.5%	Easy	
+410	
+Split Array Largest Sum	47.8%	Hard	
+420	
+Strong Password Checker	13.8%	Hard	
+435	
+Non-overlapping Intervals	45.4%	Medium	
+452	
+Minimum Number of Arrows to Burst Balloons	50.4%	Medium	
+455	
+Assign Cookies	50.5%	Easy	
+484	
+Find Permutation
+64.3%	Medium	
+502	
+IPO	42.6%	Hard	
+517	
+Super Washing Machines	38.8%	Hard	
+527	
+Word Abbreviation
+57.0%	Hard	
+555	
+Split Concatenated Strings
+43.1%	Medium	
+561	
+Array Partition I	74.3%	Easy	
+581	
+Shortest Unsorted Continuous Subarray
+33.3%	Medium	
+605	
+Can Place Flowers	31.6%	Easy	
+611	
+Valid Triangle Number	49.0%	Medium	
+621	
+Task Scheduler	53.2%	Medium	
+624	
+Maximum Distance in Arrays
+39.9%	Medium	
+625	
+Minimum Factorization
+33.1%	Medium	
+630	
+Course Schedule III	35.1%	Hard	
+632	
+Smallest Range Covering Elements from K Lists	55.8%	Hard	
+646	
+Maximum Length of Pair Chain	54.3%	Medium	
+649	
+Dota2 Senate	39.7%	Medium	
+659	
+Split Array into Consecutive Subsequences
+44.8%	Medium	
+670	
+Maximum Swap	45.8%	Medium	
+678	
+Valid Parenthesis String	32.2%	Medium	
+680	
+Valid Palindrome II	37.5%	Easy	
+714	
+Best Time to Buy and Sell Stock with Transaction Fee	59.0%	Medium	
+738	
+Monotone Increasing Digits	46.1%	Medium	
+757	
+Set Intersection Size At Least Two	42.8%	Hard	
+763	
+Partition Labels	78.3%	Medium	
+765	
+Couples Holding Hands	56.0%	Hard	
+767	
+Reorganize String
+50.9%	Medium	
+768	
+Max Chunks To Make Sorted II	50.6%	Hard	
+769	
+Max Chunks To Make Sorted	56.5%	Medium	
+781	
+Rabbits in Forest	56.1%	Medium	
+807	
+Max Increase to Keep City Skyline	84.9%	Medium	
+826	
+Most Profit Assigning Work	39.9%	Medium	
+846	
+Hand of Straights	55.8%	Medium	
+857	
+Minimum Cost to Hire K Workers	51.1%	Hard	
+860	
+Lemonade Change	52.1%	Easy	
+861	
+Score After Flipping Matrix	74.2%	Medium	
+870	
+Advantage Shuffle	50.8%	Medium	
+871	
+Minimum Number of Refueling Stops	34.9%	Hard	
+881	
+Boats to Save People	49.3%	Medium	
+910	
+Smallest Range II	31.6%	Medium	
+921	
+Minimum Add to Make Parentheses Valid	76.1%	Medium	
+936	
+Stamping The Sequence	53.4%	Hard	
+942	
+DI String Match	74.6%	Easy	
+945	
+Minimum Increment to Make Array Unique	47.7%	Medium	
+948	
+Bag of Tokens	46.1%	Medium	
+954	
+Array of Doubled Pairs	36.3%	Medium	
+955	
+Delete Columns to Make Sorted II	34.0%	Medium	
+969	
+Pancake Sorting	69.2%	Medium	
+976	
+Largest Perimeter Triangle	59.6%	Easy	
+984	
+String Without AAA or BBB	39.4%	Medium	
+991	
+Broken Calculator	49.9%	Medium	
+1005	
+Maximize Sum Of Array After K Negations	52.2%	Easy	
+1007	
+Minimum Domino Rotations For Equal Row	50.9%	Medium	
+1055	
+Shortest Way to Form String
+57.7%	Medium	
+1057	
+Campus Bikes
+58.0%	Medium	
+1058	
+Minimize Rounding Error to Meet Target
+44.3%	Medium	
+1011	
+Capacity To Ship Packages Within D Days	61.0%	Medium	
+1013	
+Partition Array Into Three Parts With Equal Sum	46.3%	Easy	
+1024	
+Video Stitching	49.3%	Medium	
+1029	
+Two City Scheduling	58.8%	Medium	
+1121	
+Divide Array Into Increasing Sequences
+59.1%	Hard	
+1167	
+Minimum Cost to Connect Sticks
+65.7%	Medium	
+1053	
+Previous Permutation With One Swap	52.0%	Medium	
+1054	
+Distant Barcodes	44.8%	Medium	
+1196	
+How Many Apples Can You Put into the Basket
+68.3%	Easy	
+1183	
+Maximum Number of Ones
+58.6%	Hard	
+1081	
+Smallest Subsequence of Distinct Characters	53.9%	Medium	
+1199	
+Minimum Time to Build Blocks
+39.4%	Hard	
+1090	
+Largest Values From Labels	60.4%	Medium	
+1130	
+Minimum Cost Tree From Leaf Values
+68.1%	Medium	
+1144	
+Decrease Elements To Make Array Zigzag	46.7%	Medium	
+1147	
+Longest Chunked Palindrome Decomposition	60.1%	Hard	
+1328	
+Break a Palindrome	49.7%	Medium	
+1330	
+Reverse Subarray To Maximize Array Value	37.6%	Hard	
+1632	
+Rank Transform of a Matrix	40.8%	Hard	
+1363	
+Largest Multiple of Three	34.7%	Hard	
+1382	
+Balance a Binary Search Tree	77.7%	Medium	
+1405	
+Longest Happy String	53.6%	Medium	
+1217	
+Minimum Cost to Move Chips to The Same Position	70.6%	Easy	
+1221	
+Split a String in Balanced Strings	84.5%	Easy	
+1247	
+Minimum Swaps to Make Strings Equal	63.3%	Medium	
+1253	
+Reconstruct a 2-Row Binary Matrix	42.3%	Medium	
+1262	
+Greatest Sum Divisible by Three
+50.5%	Medium	
+1296	
+Divide Array in Sets of K Consecutive Numbers	55.9%	Medium	
+1323	
+Maximum 69 Number	78.3%	Easy	
+1326	
+Minimum Number of Taps to Open to Water a Garden	47.6%	Hard	
+1338	
+Reduce Array Size to The Half	68.4%	Medium	
+1353	
+Maximum Number of Events That Can Be Attended
+30.8%	Medium	
+1386	
+Cinema Seat Allocation	37.3%	Medium	
+1388	
+Pizza With 3n Slices	47.1%	Hard	
+1383	
+Maximum Performance of a Team	41.3%	Hard	
+1400	
+Construct K Palindrome Strings	63.8%	Medium	
+1402	
+Reducing Dishes	72.3%	Hard	
+1414	
+Find the Minimum Number of Fibonacci Numbers Whose Sum Is K	64.9%	Medium	
+1403	
+Minimum Subsequence in Non-Increasing Order	71.9%	Easy	
+1432	
+Max Difference You Can Get From Changing an Integer	43.1%	Medium	
+1433	
+Check If a String Can Break Another String	67.9%	Medium	
+1465	
+Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts	36.7%	Medium	
+1481	
+Least Number of Unique Integers after K Removals	57.0%	Medium	
+1488	
+Avoid Flood in The City	24.8%	Medium	
+1509	
+Minimum Difference Between Largest and Smallest Value in Three Moves	56.1%	Medium	
+1505	
+Minimum Possible Integer After at Most K Adjacent Swaps On Digits	36.5%	Hard	
+1526	
+Minimum Number of Increments on Subarrays to Form a Target Array	65.7%	Hard	
+1520	
+Maximum Number of Non-Overlapping Substrings	37.0%	Hard	
+1541	
+Minimum Insertions to Balance a Parentheses String	45.5%	Medium	
+1546	
+Maximum Number of Non-Overlapping Subarrays With Sum Equals Target	45.0%	Medium	
+1529	
+Bulb Switcher IV	72.1%	Medium	
+1536	
+Minimum Swaps to Arrange a Binary Grid	44.4%	Medium	
+1537	
+Get the Maximum Score	37.4%	Hard	
+1558	
+Minimum Numbers of Function Calls to Make Target Array	63.5%	Medium	
+1561	
+Maximum Number of Coins You Can Get	77.6%	Medium	
+1567	
+Maximum Length of Subarray With Positive Product	38.1%	Medium	
+1589	
+Maximum Sum Obtained of Any Permutation	35.7%	Medium	
+1578	
+Minimum Deletion Cost to Avoid Repeating Letters	61.2%	Medium	
+1564	
+Put Boxes Into the Warehouse I
+64.3%	Medium	
+1585	
+Check If String Is Transformable With Substring Sort Operations	48.1%	Hard	
+1606	
+Find Servers That Handled Most Number of Requests	38.6%	Hard	
+1605	
+Find Valid Matrix Given Row and Column Sums	78.4%	Medium	
+1580	
+Put Boxes Into the Warehouse II
+63.5%	Medium	
+1616	
+Split Two Strings to Make Palindrome	31.0%	Medium	
+1642	
+Furthest Building You Can Reach	43.5%	Medium	
+1671	
+Minimum Number of Removals to Make Mountain Array	44.0%	Hard	
+1647	
+Minimum Deletions to Make Character Frequencies Unique	55.8%	Medium	
+1648	
+Sell Diminishing-Valued Colored Balls	31.2%	Medium	
+1663	
+Smallest String With A Given Numeric Value	64.3%	Medium	
+1665	
+Minimum Initial Energy to Finish Tasks	55.1%	Hard	
+1686	
+Stone Game VI	52.0%	Medium	
+1673	
+Find the Most Competitive Subsequence	46.8%	Medium	
+1675	
+Minimize Deviation in Array	48.1%	Hard	
+1702	
+Maximum Binary String After Change	44.2%	Medium	
+1703	
+Minimum Adjacent Swaps for K Consecutive Ones	37.6%	Hard	
+1689	
+Partitioning Into Minimum Number Of Deci-Binary Numbers	88.0%	Medium	
+1717	
+Maximum Score From Removing Substrings	42.5%	Medium	
+1705	
+Maximum Number of Eaten Apples	34.8%	Medium	
+1710	
+Maximum Units on a Truck	72.4%	Easy	
+1713	
+Minimum Operations to Make a Subsequence	46.6%	Hard	
+1733	
+Minimum Number of People to Teach	39.1%	Medium	
+1727	
+Largest Submatrix With Rearrangements	59.6%	Medium	
+1708	
+Largest Subarray Length K
+64.1%	Easy	
+1736	
+Latest Time by Replacing Hidden Digits	41.7%	Easy	
+1739	
+Building Boxes	50.4%	Hard	
+1764	
+Form Array by Concatenating Subarrays of Another Array	53.0%	Medium	
+1753	
+Maximum Score From Removing Stones	63.6%	Medium	
+1754	
+Largest Merge Of Two Strings	42.2%	Medium	
+1775	
+Equal Sum Arrays With Minimum Number of Operations	50.6%	Medium	
+1785	
+Minimum Elements to Add to Form a Given Sum	40.3%	Medium	
+1792	
+Maximum Average Pass Ratio	48.6%	Medium	
+1802	
+Maximum Value at a Given Index in a Bounded Array	28.6%	Medium	
+1798	
+Maximum Number of Consecutive Values You Can Make	47.8%	Medium	
+1788	
+Maximize the Beauty of the Garden
+67.2%	Hard	
+1827	
+Minimum Operations to Make the Array Increasing	77.9%	Easy	
+1794	
+Count Pairs of Equal Substrings With Minimum Difference
+67.2%	Medium	
+1824	
+Minimum Sideway Jumps	48.0%	Medium	
+1846	
+Maximum Element After Decreasing and Rearranging	55.4%	Medium	
+1833	
+Maximum Ice Cream Bars	64.0%	Medium	
+1838	
+Frequency of the Most Frequent Element	34.0%	Medium	
+1850	
+Minimum Adjacent Swaps to Reach the Kth Smallest Number	65.1%	Medium	
+1855	
+Maximum Distance Between a Pair of Values	46.7%	Medium	
+1877	
+Minimize Maximum Pair Sum in Array	79.0%	Medium	
+1864	
+Minimum Number of Swaps to Make the Binary String Alternating	36.5%	Medium	
+1881	
+Maximum Value after Insertion	34.3%	Medium	
+1888	
+Minimum Number of Flips to Make the Binary String Alternating	34.5%	Medium	
+1899	
+Merge Triplets to Form Target Triplet	59.7%	Medium	
+1874	
+Minimize Product Sum of Two Arrays
+90.6%	Medium	
+1903	
+Largest Odd Number in String	57.8%	Easy	
+1927	
+Sum Game	46.8%	Medium	
+1921	
+Eliminate Maximum Number of Monsters	37.4%	Medium	
+1936	
+Add Minimum Number of Rungs	41.3%	Medium	
+1946	
+Largest Number After Mutating Substring	32.8%	Medium	
+1953	
+Maximum Number of Weeks for Which You Can Work	34.0%	Medium	
+1968	
+Array With Elements Not Equal to Average of Neighbors	46.0%	Medium	
+1963	
+Minimum Number of Swaps to Make the String Balanced	62.6%	Medium	
+1969	
+Minimum Non-Zero Product of the Array Elements	30.3%	Medium	

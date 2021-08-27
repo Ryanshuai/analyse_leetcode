@@ -1,0 +1,704 @@
+	5	
+Longest Palindromic Substring
+31.1%	Medium	
+10	
+Regular Expression Matching	27.8%	Hard	
+22	
+Generate Parentheses	67.5%	Medium	
+32	
+Longest Valid Parentheses	30.4%	Hard	
+42	
+Trapping Rain Water
+53.1%	Hard	
+44	
+Wildcard Matching	25.9%	Hard	
+45	
+Jump Game II	34.0%	Medium	
+53	
+Maximum Subarray
+48.3%	Easy	
+55	
+Jump Game	36.0%	Medium	
+62	
+Unique Paths	57.4%	Medium	
+63	
+Unique Paths II	36.3%	Medium	
+64	
+Minimum Path Sum	57.5%	Medium	
+70	
+Climbing Stairs	49.2%	Easy	
+72	
+Edit Distance	48.4%	Hard	
+85	
+Maximal Rectangle	40.5%	Hard	
+87	
+Scramble String	35.1%	Hard	
+91	
+Decode Ways	28.1%	Medium	
+95	
+Unique Binary Search Trees II	44.8%	Medium	
+96	
+Unique Binary Search Trees	55.7%	Medium	
+97	
+Interleaving String	33.8%	Medium	
+115	
+Distinct Subsequences	40.6%	Hard	
+118	
+Pascal's Triangle	58.5%	Easy	
+119	
+Pascal's Triangle II	53.9%	Easy	
+120	
+Triangle	47.8%	Medium	
+121	
+Best Time to Buy and Sell Stock	52.4%	Easy	
+122	
+Best Time to Buy and Sell Stock II	59.8%	Easy	
+123	
+Best Time to Buy and Sell Stock III	41.1%	Hard	
+124	
+Binary Tree Maximum Path Sum	36.3%	Hard	
+131	
+Palindrome Partitioning	54.8%	Medium	
+132	
+Palindrome Partitioning II	32.7%	Hard	
+139	
+Word Break	42.8%	Medium	
+140	
+Word Break II	37.7%	Hard	
+152	
+Maximum Product Subarray
+33.3%	Medium	
+174	
+Dungeon Game	34.0%	Hard	
+188	
+Best Time to Buy and Sell Stock IV	31.2%	Hard	
+198	
+House Robber	44.1%	Medium	
+213	
+House Robber II	38.2%	Medium	
+221	
+Maximal Square	40.7%	Medium	
+233	
+Number of Digit One	32.3%	Hard	
+241	
+Different Ways to Add Parentheses	58.8%	Medium	
+256	
+Paint House
+55.8%	Medium	
+264	
+Ugly Number II	43.6%	Medium	
+265	
+Paint House II
+47.6%	Hard	
+276	
+Paint Fence
+40.7%	Medium	
+279	
+Perfect Squares
+50.1%	Medium	
+294	
+Flip Game II
+51.0%	Medium	
+300	
+Longest Increasing Subsequence
+46.5%	Medium	
+309	
+Best Time to Buy and Sell Stock with Cooldown
+49.2%	Medium	
+312	
+Burst Balloons	54.5%	Hard	
+313	
+Super Ugly Number	47.2%	Medium	
+322	
+Coin Change	38.5%	Medium	
+329	
+Longest Increasing Path in a Matrix	47.6%	Hard	
+333	
+Largest BST Subtree
+39.3%	Medium	
+337	
+House Robber III	52.3%	Medium	
+338	
+Counting Bits	71.5%	Easy	
+343	
+Integer Break	51.9%	Medium	
+351	
+Android Unlock Patterns
+50.2%	Medium	
+354	
+Russian Doll Envelopes	38.8%	Hard	
+357	
+Count Numbers with Unique Digits	49.6%	Medium	
+361	
+Bomb Enemy
+48.2%	Medium	
+363	
+Max Sum of Rectangle No Larger Than K	40.1%	Hard	
+368	
+Largest Divisible Subset	38.8%	Medium	
+375	
+Guess Number Higher or Lower II
+43.7%	Medium	
+376	
+Wiggle Subsequence	42.9%	Medium	
+377	
+Combination Sum IV	47.5%	Medium	
+392	
+Is Subsequence	49.8%	Easy	
+396	
+Rotate Function	37.6%	Medium	
+397	
+Integer Replacement	33.9%	Medium	
+403	
+Frog Jump	42.1%	Hard	
+410	
+Split Array Largest Sum	47.8%	Hard	
+413	
+Arithmetic Slices	60.4%	Medium	
+416	
+Partition Equal Subset Sum	45.5%	Medium	
+418	
+Sentence Screen Fitting
+34.5%	Medium	
+435	
+Non-overlapping Intervals	45.4%	Medium	
+446	
+Arithmetic Slices II - Subsequence	34.4%	Hard	
+458	
+Poor Pigs	54.9%	Hard	
+464	
+Can I Win	29.7%	Medium	
+466	
+Count The Repetitions	28.7%	Hard	
+467	
+Unique Substrings in Wraparound String	36.7%	Medium	
+471	
+Encode String with Shortest Length
+50.2%	Hard	
+472	
+Concatenated Words	44.1%	Hard	
+473	
+Matchsticks to Square	40.0%	Medium	
+474	
+Ones and Zeroes	43.7%	Medium	
+486	
+Predict the Winner
+49.5%	Medium	
+487	
+Max Consecutive Ones II
+48.0%	Medium	
+1643	
+Kth Smallest Instructions	45.2%	Hard	
+494	
+Target Sum	45.4%	Medium	
+514	
+Freedom Trail	45.5%	Hard	
+516	
+Longest Palindromic Subsequence	57.2%	Medium	
+518	
+Coin Change 2	54.0%	Medium	
+526	
+Beautiful Arrangement	62.7%	Medium	
+542	
+01 Matrix	42.8%	Medium	
+546	
+Remove Boxes	47.2%	Hard	
+552	
+Student Attendance Record II	38.7%	Hard	
+553	
+Optimal Division	58.1%	Medium	
+562	
+Longest Line of Consecutive One in Matrix
+47.6%	Medium	
+568	
+Maximum Vacation Days
+42.2%	Hard	
+576	
+Out of Boundary Paths	39.6%	Medium	
+583	
+Delete Operation for Two Strings	52.8%	Medium	
+600	
+Non-negative Integers without Consecutive Ones	38.2%	Hard	
+629	
+K Inverse Pairs Array	37.1%	Hard	
+634	
+Find the Derangement of An Array
+40.7%	Medium	
+638	
+Shopping Offers	53.9%	Medium	
+639	
+Decode Ways II	30.2%	Hard	
+646	
+Maximum Length of Pair Chain	54.3%	Medium	
+647	
+Palindromic Substrings	63.3%	Medium	
+650	
+2 Keys Keyboard	51.0%	Medium	
+651	
+4 Keys Keyboard
+53.4%	Medium	
+656	
+Coin Path
+30.2%	Hard	
+664	
+Strange Printer	42.7%	Hard	
+673	
+Number of Longest Increasing Subsequence
+39.1%	Medium	
+678	
+Valid Parenthesis String	32.2%	Medium	
+688	
+Knight Probability in Chessboard	50.9%	Medium	
+689	
+Maximum Sum of 3 Non-Overlapping Subarrays	47.8%	Hard	
+691	
+Stickers to Spell Word	46.0%	Hard	
+698	
+Partition to K Equal Sum Subsets	45.1%	Medium	
+712	
+Minimum ASCII Delete Sum for Two Strings	60.2%	Medium	
+714	
+Best Time to Buy and Sell Stock with Transaction Fee	59.0%	Medium	
+718	
+Maximum Length of Repeated Subarray	51.1%	Medium	
+727	
+Minimum Window Subsequence
+42.8%	Hard	
+730	
+Count Different Palindromic Subsequences	43.4%	Hard	
+740	
+Delete and Earn	52.1%	Medium	
+741	
+Cherry Pickup	35.7%	Hard	
+746	
+Min Cost Climbing Stairs	54.1%	Easy	
+750	
+Number Of Corner Rectangles
+67.3%	Medium	
+764	
+Largest Plus Sign	47.2%	Medium	
+787	
+Cheapest Flights Within K Stops
+37.5%	Medium	
+788	
+Rotated Digits	57.4%	Medium	
+790	
+Domino and Tromino Tiling	41.0%	Medium	
+799	
+Champagne Tower	44.3%	Medium	
+801	
+Minimum Swaps To Make Sequences Increasing
+38.9%	Hard	
+805	
+Split Array With Same Average	26.6%	Hard	
+808	
+Soup Servings	41.6%	Medium	
+813	
+Largest Sum of Averages
+51.7%	Medium	
+818	
+Race Car	41.0%	Hard	
+823	
+Binary Trees With Factors	43.6%	Medium	
+828	
+Count Unique Characters of All Substrings of a Given String	47.0%	Hard	
+834	
+Sum of Distances in Tree	47.9%	Hard	
+837	
+New 21 Game
+35.7%	Medium	
+838	
+Push Dominoes	51.8%	Medium	
+845	
+Longest Mountain in Array	39.1%	Medium	
+847	
+Shortest Path Visiting All Nodes	55.0%	Hard	
+871	
+Minimum Number of Refueling Stops	34.9%	Hard	
+873	
+Length of Longest Fibonacci Subsequence
+48.4%	Medium	
+877	
+Stone Game	68.3%	Medium	
+879	
+Profitable Schemes	40.2%	Hard	
+887	
+Super Egg Drop	26.9%	Hard	
+894	
+All Possible Full Binary Trees	78.4%	Medium	
+898	
+Bitwise ORs of Subarrays	35.6%	Medium	
+902	
+Numbers At Most N Given Digit Set	36.2%	Hard	
+903	
+Valid Permutations for DI Sequence	56.3%	Hard	
+907	
+Sum of Subarray Minimums
+32.9%	Medium	
+913	
+Cat and Mouse	35.1%	Hard	
+918	
+Maximum Sum Circular Subarray	34.9%	Medium	
+920	
+Number of Music Playlists	48.5%	Hard	
+926	
+Flip String to Monotone Increasing	56.5%	Medium	
+931	
+Minimum Falling Path Sum	65.0%	Medium	
+935	
+Knight Dialer	47.7%	Medium	
+940	
+Distinct Subsequences II	41.5%	Hard	
+943	
+Find the Shortest Superstring	45.8%	Hard	
+956	
+Tallest Billboard	39.7%	Hard	
+960	
+Delete Columns to Make Sorted III	55.8%	Hard	
+964	
+Least Operators to Express Number	45.8%	Hard	
+968	
+Binary Tree Cameras	41.0%	Hard	
+509	
+Fibonacci Number	67.8%	Easy	
+975	
+Odd Even Jump	40.9%	Hard	
+978	
+Longest Turbulent Subarray	46.9%	Medium	
+983	
+Minimum Cost For Tickets
+63.1%	Medium	
+996	
+Number of Squareful Arrays	48.8%	Hard	
+1000	
+Minimum Cost to Merge Stones	41.2%	Hard	
+1055	
+Shortest Way to Form String
+57.7%	Medium	
+1012	
+Numbers With Repeated Digits	38.1%	Hard	
+1062	
+Longest Repeating Substring
+59.0%	Medium	
+1014	
+Best Sightseeing Pair	53.8%	Medium	
+1066	
+Campus Bikes II
+54.4%	Medium	
+1067	
+Digit Count in Range
+41.8%	Hard	
+1024	
+Video Stitching	49.3%	Medium	
+1025	
+Divisor Game	66.4%	Easy	
+1027	
+Longest Arithmetic Subsequence	49.0%	Medium	
+1031	
+Maximum Sum of Two Non-Overlapping Subarrays	59.1%	Medium	
+1035	
+Uncrossed Lines	56.6%	Medium	
+1039	
+Minimum Score Triangulation of Polygon
+51.4%	Medium	
+1162	
+As Far from Land as Possible	46.6%	Medium	
+1043	
+Partition Array for Maximum Sum	68.7%	Medium	
+1048	
+Longest String Chain	56.4%	Medium	
+1049	
+Last Stone Weight II	48.3%	Medium	
+1182	
+Shortest Distance to Target Color
+54.3%	Medium	
+1230	
+Toss Strange Coins
+50.5%	Medium	
+1092	
+Shortest Common Supersequence	54.6%	Hard	
+1216	
+Valid Palindrome III
+50.7%	Hard	
+1105	
+Filling Bookcase Shelves	57.7%	Medium	
+1246	
+Palindrome Removal
+45.8%	Hard	
+1259	
+Handshakes That Don't Cross
+54.4%	Hard	
+1125	
+Smallest Sufficient Team	47.3%	Hard	
+1289	
+Minimum Falling Path Sum II	63.0%	Hard	
+1130	
+Minimum Cost Tree From Leaf Values
+68.1%	Medium	
+1301	
+Number of Paths with Max Score	38.3%	Hard	
+1137	
+N-th Tribonacci Number	56.3%	Easy	
+1139	
+Largest 1-Bordered Square	48.9%	Medium	
+1140	
+Stone Game II	64.6%	Medium	
+1316	
+Distinct Echo Substrings	49.7%	Hard	
+1143	
+Longest Common Subsequence
+58.8%	Medium	
+1147	
+Longest Chunked Palindrome Decomposition	60.1%	Hard	
+1155	
+Number of Dice Rolls With Target Sum	47.7%	Medium	
+1363	
+Largest Multiple of Three	34.7%	Hard	
+1425	
+Constrained Subsequence Sum	45.5%	Hard	
+1186	
+Maximum Subarray Sum with One Deletion	39.8%	Medium	
+1187	
+Make Array Strictly Increasing	43.8%	Hard	
+1483	
+Kth Ancestor of a Tree Node	33.0%	Hard	
+1191	
+K-Concatenation Maximum Sum
+24.6%	Medium	
+1916	
+Count Ways to Build Rooms in an Ant Colony	49.8%	Hard	
+1706	
+Where Will the Ball Fall	64.5%	Medium	
+1218	
+Longest Arithmetic Subsequence of Given Difference	47.8%	Medium	
+1220	
+Count Vowels Permutation	56.6%	Hard	
+1223	
+Dice Roll Simulation	47.3%	Hard	
+1235	
+Maximum Profit in Job Scheduling	48.4%	Hard	
+1240	
+Tiling a Rectangle with the Fewest Squares	52.6%	Hard	
+1227	
+Airplane Seat Assignment Probability	62.9%	Medium	
+1691	
+Maximum Height by Stacking Cuboids	51.3%	Hard	
+1255	
+Maximum Score Words Formed by Letters	70.8%	Hard	
+1262	
+Greatest Sum Divisible by Three
+50.5%	Medium	
+1269	
+Number of Ways to Stay in the Same Place After Some Steps	43.3%	Hard	
+1277	
+Count Square Submatrices with All Ones	73.6%	Medium	
+1278	
+Palindrome Partitioning III	61.3%	Hard	
+1312	
+Minimum Insertion Steps to Make a String Palindrome	61.5%	Hard	
+1320	
+Minimum Distance to Type a Word Using Two Fingers	61.2%	Hard	
+1326	
+Minimum Number of Taps to Open to Water a Garden	47.6%	Hard	
+1334	
+Find the City With the Smallest Number of Neighbors at a Threshold Distance	49.2%	Medium	
+1335	
+Minimum Difficulty of a Job Schedule	56.7%	Hard	
+1359	
+Count All Valid Pickup and Delivery Options	55.3%	Hard	
+1340	
+Jump Game V	60.8%	Hard	
+1349	
+Maximum Students Taking Exam	45.3%	Hard	
+1372	
+Longest ZigZag Path in a Binary Tree	56.0%	Medium	
+1373	
+Maximum Sum BST in Binary Tree	37.5%	Hard	
+1387	
+Sort Integers by The Power Value	70.5%	Medium	
+1388	
+Pizza With 3n Slices	47.1%	Hard	
+1402	
+Reducing Dishes	72.3%	Hard	
+1395	
+Count Number of Teams
+71.7%	Medium	
+1397	
+Find All Good Strings	39.2%	Hard	
+1416	
+Restore The Array	37.2%	Hard	
+1406	
+Stone Game III	59.4%	Hard	
+1411	
+Number of Ways to Paint N × 3 Grid	61.5%	Hard	
+1434	
+Number of Ways to Wear Different Hats to Each Other	40.5%	Hard	
+1420	
+Build Array Where You Can Find The Maximum Exactly K Comparisons	64.5%	Hard	
+1449	
+Form Largest Integer With Digits That Add up to Target	45.6%	Hard	
+1444	
+Number of Ways of Cutting a Pizza	54.3%	Hard	
+1463	
+Cherry Pickup II	68.5%	Hard	
+1458	
+Max Dot Product of Two Subsequences	43.9%	Hard	
+1478	
+Allocate Mailboxes	54.2%	Hard	
+1477	
+Find Two Non-overlapping Sub-arrays Each With Target Sum
+35.8%	Medium	
+1467	
+Probability of a Two Boxes Having The Same Number of Distinct Balls	60.8%	Hard	
+1473	
+Paint House III	49.1%	Hard	
+1493	
+Longest Subarray of 1's After Deleting One Element	59.7%	Medium	
+1494	
+Parallel Courses II	30.8%	Hard	
+1510	
+Stone Game IV	59.3%	Hard	
+1504	
+Count Submatrices With All Ones	60.7%	Medium	
+1524	
+Number of Sub-arrays With Odd Sum	41.7%	Medium	
+1525	
+Number of Good Ways to Split a String	69.8%	Medium	
+1526	
+Minimum Number of Increments on Subarrays to Form a Target Array	65.7%	Hard	
+1531	
+String Compression II	35.1%	Hard	
+1537	
+Get the Maximum Score	37.4%	Hard	
+1547	
+Minimum Cost to Cut a Stick	53.9%	Hard	
+1553	
+Minimum Number of Days to Eat N Oranges	31.4%	Hard	
+1575	
+Count All Possible Routes	57.8%	Hard	
+1563	
+Stone Game V	40.4%	Hard	
+1548	
+The Most Similar Path in a Graph
+55.7%	Hard	
+1567	
+Maximum Length of Subarray With Positive Product	38.1%	Medium	
+1569	
+Number of Ways to Reorder Array to Get Same BST	49.8%	Hard	
+1578	
+Minimum Deletion Cost to Avoid Repeating Letters	61.2%	Medium	
+1594	
+Maximum Non Negative Product in a Matrix	32.7%	Medium	
+1595	
+Minimum Cost to Connect Two Groups of Points	44.3%	Hard	
+1621	
+Number of Sets of K Non-Overlapping Line Segments	42.3%	Medium	
+1728	
+Cat and Mouse II	41.3%	Hard	
+1611	
+Minimum One Bit Operations to Make Integers Zero	60.5%	Hard	
+1617	
+Count Subtrees With Max Distance Between Cities	64.2%	Hard	
+1638	
+Count Substrings That Differ by One Character	71.6%	Medium	
+1639	
+Number of Ways to Form a Target String Given a Dictionary	41.1%	Hard	
+1626	
+Best Team With No Conflicts	39.7%	Medium	
+1653	
+Minimum Deletions to Make String Balanced	53.1%	Medium	
+1654	
+Minimum Jumps to Reach Home	24.9%	Medium	
+1655	
+Distribute Repeating Integers	40.3%	Hard	
+1641	
+Count Sorted Vowel Strings	75.0%	Medium	
+1671	
+Minimum Number of Removals to Make Mountain Array	44.0%	Hard	
+1646	
+Get Maximum in Generated Array	52.0%	Easy	
+1659	
+Maximize Grid Happiness	36.6%	Hard	
+1664	
+Ways to Make a Fair Array	62.2%	Medium	
+1687	
+Delivering Boxes from Storage to Ports	36.0%	Hard	
+1681	
+Minimum Incompatibility	36.1%	Hard	
+1690	
+Stone Game VII	58.8%	Medium	
+1714	
+Sum Of Special Evenly-Spaced Elements In Array
+52.3%	Hard	
+1696	
+Jump Game VI	42.0%	Medium	
+1682	
+Longest Palindromic Subsequence II
+50.8%	Medium	
+1723	
+Find Minimum Time to Finish All Jobs	40.8%	Hard	
+1692	
+Count Ways to Distribute Candies
+60.0%	Hard	
+1735	
+Count Ways to Make Array With Product	49.1%	Hard	
+1749	
+Maximum Absolute Sum of Any Subarray	54.8%	Medium	
+1751	
+Maximum Number of Events That Can Be Attended II	51.4%	Hard	
+1745	
+Palindrome Partitioning IV	49.9%	Hard	
+1755	
+Closest Subsequence Sum	34.7%	Hard	
+1746	
+Maximum Subarray Sum After One Operation
+61.7%	Medium	
+1770	
+Maximum Score from Performing Multiplication Operations	30.8%	Medium	
+1771	
+Maximize Palindrome Length From Subsequences	34.3%	Hard	
+1774	
+Closest Dessert Cost	45.4%	Medium	
+1799	
+Maximize Score After N Operations	46.0%	Hard	
+1786	
+Number of Restricted Paths From First to Last Node	36.7%	Medium	
+1787	
+Make the XOR of All Segments Equal to Zero	37.8%	Hard	
+1815	
+Maximum Number of Groups Getting Fresh Donuts	39.4%	Hard	
+1824	
+Minimum Sideway Jumps	48.0%	Medium	
+1857	
+Largest Color Value in a Directed Graph	37.5%	Hard	
+1879	
+Minimum XOR Sum of Two Arrays	38.1%	Hard	
+1866	
+Number of Ways to Rearrange Sticks With K Sticks Visible	54.5%	Hard	
+1872	
+Stone Game VIII	51.4%	Hard	
+1896	
+Minimum Cost to Change the Final Value of Expression	51.9%	Hard	
+1883	
+Minimum Skips to Arrive at Meeting On Time	38.4%	Hard	
+1911	
+Maximum Alternating Subsequence Sum	57.7%	Medium	
+1900	
+The Earliest and Latest Rounds Where Players Compete	49.8%	Hard	
+1884	
+Egg Drop With 2 Eggs and N Floors	70.1%	Medium	
+1928	
+Minimum Cost to Reach Destination in Time	34.1%	Hard	
+1931	
+Painting a Grid With Three Different Colors	56.4%	Hard	
+1908	
+Game of Nim
+64.7%	Medium	
+1937	
+Maximum Number of Points with Cost	27.3%	Medium	
+1947	
+Maximum Compatibility Score Sum	57.4%	Medium	
+1959	
+Minimum Total Space Wasted With K Resizing Operations	39.5%	Medium	
+1955	
+Count Number of Special Subsequences	49.2%	Hard	

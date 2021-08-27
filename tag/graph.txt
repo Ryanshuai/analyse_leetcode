@@ -1,0 +1,173 @@
+33	
+Clone Graph	42.0%	Medium	
+207	
+Course Schedule	44.5%	Medium	
+210	
+Course Schedule II	44.1%	Medium	
+261	
+Graph Valid Tree
+44.1%	Medium	
+269	
+Alien Dictionary
+34.1%	Hard	
+277	
+Find the Celebrity
+45.0%	Medium	
+310	
+Minimum Height Trees	35.5%	Medium	
+323	
+Number of Connected Components in an Undirected Graph
+59.1%	Medium	
+329	
+Longest Increasing Path in a Matrix	47.6%	Hard	
+332	
+Reconstruct Itinerary
+39.0%	Medium	
+399	
+Evaluate Division	55.5%	Medium	
+444	
+Sequence Reconstruction
+23.9%	Medium	
+490	
+The Maze
+53.7%	Medium	
+499	
+The Maze III
+43.4%	Hard	
+505	
+The Maze II
+49.9%	Medium	
+1059	
+All Paths from Source Lead to Destination
+43.9%	Medium	
+547	
+Number of Provinces	61.8%	Medium	
+631	
+Design Excel Sum Formula
+34.8%	Hard	
+684	
+Redundant Connection	60.1%	Medium	
+685	
+Redundant Connection II	33.3%	Hard	
+743	
+Network Delay Time
+46.5%	Medium	
+753	
+Cracking the Safe	53.2%	Hard	
+765	
+Couples Holding Hands	56.0%	Hard	
+785	
+Is Graph Bipartite?	49.3%	Medium	
+787	
+Cheapest Flights Within K Stops
+37.5%	Medium	
+797	
+All Paths From Source to Target	79.1%	Medium	
+802	
+Find Eventual Safe States	50.8%	Medium	
+834	
+Sum of Distances in Tree	47.9%	Hard	
+841	
+Keys and Rooms	67.2%	Medium	
+847	
+Shortest Path Visiting All Nodes	55.0%	Hard	
+851	
+Loud and Rich	53.9%	Medium	
+882	
+Reachable Nodes In Subdivided Graph	43.8%	Hard	
+886	
+Possible Bipartition	46.1%	Medium	
+913	
+Cat and Mouse	35.1%	Hard	
+947	
+Most Stones Removed with Same Row or Column	56.0%	Medium	
+959	
+Regions Cut By Slashes	68.0%	Medium	
+990	
+Satisfiability of Equality Equations	48.0%	Medium	
+997	
+Find the Town Judge	49.9%	Easy	
+1135	
+Connecting Cities With Minimum Cost
+60.1%	Medium	
+1136	
+Parallel Courses
+60.4%	Medium	
+1042	
+Flower Planting With No Adjacent	49.1%	Medium	
+1168	
+Optimize Water Distribution in a Village
+62.3%	Hard	
+1129	
+Shortest Path with Alternating Colors
+40.9%	Medium	
+1632	
+Rank Transform of a Matrix	40.8%	Hard	
+1361	
+Validate Binary Tree Nodes
+42.3%	Medium	
+1192	
+Critical Connections in a Network	51.8%	Hard	
+1203	
+Sort Items by Groups Respecting Dependencies	48.7%	Hard	
+1916	
+Count Ways to Build Rooms in an Ant Colony	49.8%	Hard	
+1514	
+Path with Maximum Probability	43.2%	Medium	
+1319	
+Number of Operations to Make Network Connected	55.9%	Medium	
+1334	
+Find the City With the Smallest Number of Neighbors at a Threshold Distance	49.2%	Medium	
+1368	
+Minimum Cost to Make at Least One Valid Path in a Grid	58.7%	Hard	
+1377	
+Frog Position After T Seconds	35.8%	Hard	
+1462	
+Course Schedule IV
+46.5%	Medium	
+1466	
+Reorder Routes to Make All Paths Lead to the City Zero	61.5%	Medium	
+1494	
+Parallel Courses II	30.8%	Hard	
+1489	
+Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree	51.9%	Hard	
+1557	
+Minimum Number of Vertices to Reach All Nodes	76.4%	Medium	
+1548	
+The Most Similar Path in a Graph
+55.7%	Hard	
+1591	
+Strange Printer II	55.9%	Hard	
+1579	
+Remove Max Number of Edges to Keep Graph Fully Traversable	47.8%	Hard	
+1728	
+Cat and Mouse II	41.3%	Hard	
+1615	
+Maximal Network Rank	54.7%	Medium	
+1697	
+Checking Existence of Edge Length Limited Paths	48.0%	Hard	
+1719	
+Number Of Ways To Reconstruct A Tree	40.3%	Hard	
+1724	
+Checking Existence of Edge Length Limited Paths II
+55.8%	Hard	
+1761	
+Minimum Degree of a Connected Trio in a Graph	39.5%	Hard	
+1782	
+Count Pairs Of Nodes	35.9%	Hard	
+1786	
+Number of Restricted Paths From First to Last Node	36.7%	Medium	
+1791	
+Find Center of Star Graph	84.2%	Easy	
+1778	
+Shortest Path in a Hidden Grid
+44.8%	Medium	
+1810	
+Minimum Path Cost in a Hidden Grid
+53.4%	Medium	
+1857	
+Largest Color Value in a Directed Graph	37.5%	Hard	
+1928	
+Minimum Cost to Reach Destination in Time	34.1%	Hard	
+1971	
+Find if Path Exists in Graph	53.2%	Easy	
